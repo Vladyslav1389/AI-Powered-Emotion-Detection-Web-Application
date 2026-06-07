@@ -20,4 +20,4 @@ A production-ready Python web application that leverages IBM Watson's NLP runtim
 1. **Clone the repository:**
 ```bash
    git clone [https://github.com/Vladyslav1389/AI-Powered-Emotion-Detection-Web-Application.git](https://github.com/Vladyslav1389/AI-Powered-Emotion-Detection-Web-Application.git)
-   cd emotion-detection-app
+   cd AI-Powered-Emotion-Detection-Web-Application
